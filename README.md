@@ -9,3 +9,13 @@ PetalPlan is a web application for teams to post and share their projects. It al
 
 
 ### screenshots
+![sign up](public/img/ss_signup.png)
+Sign up page
+
+![sign in](public/img/ss_signin.png)
+Sign in page
+
+![dashboard](public/img/ss_dashboard.png)
+Dashboard
+
+![create project](public/img/ss_createproject.png)
