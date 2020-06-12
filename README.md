@@ -2,7 +2,7 @@ This project was created with React, Redux, and Firebase.
 
 PetalPlan is a web application for teams to post and share their projects. It allows multiple users to sign up, create projects, and see notifications of recent updates on the team.
 
-Online website: https://net-petalplan.web.app/
+Online website: https://net-petalplan.firebaseapp.com
 
 ## Features
 - Allows multiple users to sign up
